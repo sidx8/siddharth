@@ -2,7 +2,9 @@
   margin: 125px auto 94px;
   display: flex;
   box-sizing: border-box;
-  width: 880px;
+  width: 990px;
+  padding-left: 20px;
+  padding-right: 20px;
   max-width: 100%;
 }
 
@@ -17,7 +19,7 @@
 }
 
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 980px) {
   .intro {
     flex-direction: column;
     align-items: center;
@@ -47,7 +49,7 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 980px) {
   .longOne {
     margin: 20px auto;
     width: 100%;
@@ -72,7 +74,7 @@
   max-width: 100%;
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 980px) {
   .shortOne {
     margin: 40px auto;
     width: 100%;
@@ -98,7 +100,7 @@
   line-height: 1.3em;
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 980px) {
   .myTitle br {
     display: none;
   }
