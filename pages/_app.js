@@ -16,13 +16,11 @@ class MyApp extends App {
     const { Component, pageProps, works } = this.props
 
     return (
-      <>
         <WorksContext.Provider value={works}>
           <>
             <Component {...pageProps} />
           </>
         </WorksContext.Provider>
-      </>
     )
   }
 }
