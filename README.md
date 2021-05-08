@@ -1,4 +1,4 @@
-siddharth sinha - My portfolio!
+# Siddharth Sinha - My portfolio!
 
 A project uses markdown files as a database and renders them using React and Next.js
 
