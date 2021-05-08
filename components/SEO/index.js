@@ -2,12 +2,12 @@ import Head from 'next/head'
 import React from 'react'
 
 const SEO = ({ title, description, image = '/images/logo.png' }) => {
-  const siteURL = 'https://wunnle.dev'
+  const siteURL = 'https://siddharth.vercel.app/'
 
   return (
     <Head>
       <title>{title}</title>
-      <meta name="twitter:creator" content="@wunnle"></meta>
+      <meta name="twitter:creator" content="@siddharth"></meta>
       <meta name="twitter:card" content="summary_large_image"></meta>
       <meta property="og:type" content="website"></meta>
 

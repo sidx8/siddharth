@@ -13,7 +13,7 @@ const Footer = ({ noBorder }) => (
   <footer>
     <div className={noBorder ? styles.containerNoBorder : styles.container}>
       <Link href="/">
-        <img src={logomark} width="70px" alt="wunnle logo" />
+        <img src={logomark} width="70px" alt="siddharth logo" />
       </Link>
       <nav className={styles.nav}>
         <ul>
