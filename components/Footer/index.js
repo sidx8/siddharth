@@ -25,8 +25,6 @@ const Footer = ({ noBorder }) => (
             >
               <img src={githubLogo} alt="sidx8 on github" />
             </a>
-          </li>
-          <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -34,8 +32,7 @@ const Footer = ({ noBorder }) => (
             >
               <img src={MediumLogo} alt="siddharth on medium" />
             </a>
-          </li>
-          <li>
+
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -43,8 +40,6 @@ const Footer = ({ noBorder }) => (
             >
               <img src={linkedinLogo} alt="siddharth on linkedin" />
             </a>
-          </li>
-          <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -52,8 +47,6 @@ const Footer = ({ noBorder }) => (
             >
               <img src={twitterLogo} alt="sid on twitter" />
             </a>
-          </li>
-          <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
