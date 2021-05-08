@@ -36,7 +36,7 @@ const Footer = ({ noBorder }) => (
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://twitter.com/siddhar45750060"
+              href="https://www.linkedin.com/in/siddharth-sinha-x8/"
             >
               <img src={linkedinLogo} alt="siddharth on linkedin" />
             </a>
