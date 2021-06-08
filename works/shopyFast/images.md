@@ -1,6 +1,6 @@
-![new landing page](/shopyFast/home.jpeg)
+![new landing page](/shopyFast/home2.jpeg)
 
-![new landing page 2](/shopyFast/items.jpeg)
+![new landing page 2](/shopyFast/items2.jpeg)
 
 ![new landing page 2](/shopyFast/detail.jpeg)
 

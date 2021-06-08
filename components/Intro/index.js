@@ -9,7 +9,7 @@ const Intro = () => (
           a web and<br />
           mobile developer
         </p>
-        <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/e/2PACX-1vQGUM8qb-B1BGq08rtEX3IqtDf6u3qYaDS_epTm4Z6csUX7xAeXoaUO-7oYU3NWqpozU15P6qqXGWtb/pub">
+        <a target="_blank" rel="noopener noreferrer" href="/Document/SiddharthSinha.pdf">
           <button className={styles.helloButton}>Resume</button>
         </a>
       </div>
